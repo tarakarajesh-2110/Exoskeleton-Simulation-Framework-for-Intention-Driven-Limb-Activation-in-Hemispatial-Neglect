@@ -1,0 +1,2 @@
+# Exoskeleton-Simulation-Framework-for-Intention-Driven-Limb-Activation-in-Hemispatial-Neglect
+A modular, physics-based digital twin of a wearable upper-limb exoskeleton for hemispatial neglect, built on ROS 2 and Gazebo. It combines sEMG intention detection, IMU-driven mirror-imitation from the unaffected arm, and an attentional pacing engine to test sensor fusion and control safety before physical deployment.
